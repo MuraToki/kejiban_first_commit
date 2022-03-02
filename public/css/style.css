@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  margin: 0;
+}
+#app {
+  background-image: url(../img/board.jpg);
+  background-position: top;
+  background-clip: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
